@@ -1,5 +1,7 @@
-Rally Release Summary
+Rally Release Summary (Deprecated)
 ======================
+
+This app is deprecated and no longer being actively developed. Please use the new Release Summary on our app-catalog [here](https://github.com/RallyApps/app-catalog/tree/master/src/apps/releasesummary).
 
 ![Title](https://raw.github.com/RallyApps/ReleaseSummary/master/screenshots/title-screenshot.png)
 
